@@ -8,7 +8,7 @@ Both files were created using EAGLE 6.5.0, screenshots are available here: http:
 
 
 IMPORTANT:
-I'm using the IRFML 8244 n-channel SOT-23. As of yet this is not changed in the schematics!
+I'm using the IRLML 6402 p-channel MOSFET in a SOT-23 package and a BFN 26 npn transistor also in SOT-23.  As of yet this is not changed in the schematics!
 
 
 Greater picture:
