@@ -4,7 +4,7 @@
 Schematic/PCB-Board for building a 4 digit seven segment display wall clock.
 
 
-Both files were created using EAGLE 6.5.0, screenshots are available here: http://imgur.com/a/81sTN
+Both files were created using EAGLE 6.5.0, screenshots are available here: http://imgur.com/a/bXdcL
 
 
 IMPORTANT:
